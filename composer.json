@@ -26,6 +26,17 @@
             "role": "Creator"
         }
     ],
+    
+    "repositories": [
+        {
+            "url": "https://github.com/andygfb/countries",
+            "type": "vcs"
+        },
+        {
+            "url": "https://github.com/antonioribeiro/ia-collection",
+            "type": "vcs"
+        }
+    ],
 
     "require": {
         "php": ">=7.2",
